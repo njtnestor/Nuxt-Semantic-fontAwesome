@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-semantic-fontawesome",
+  "version": "1.0.0",
+  "description": "My stunning Nuxt.js project",
+  "author": "Nestor",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0",
+    "nuxt-fontawesome": "^0.3.0",
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-svg-core": "^1.2.8",
+    "@fortawesome/free-brands-svg-icons": "^5.5.0",
+    "@fortawesome/free-solid-svg-icons": "^5.5.0",
+    "@fortawesome/vue-fontawesome": "^0.1.2",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-vue": "^0.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
