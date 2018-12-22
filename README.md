@@ -1,4 +1,4 @@
-# streamerSetup
+# nuxt-semantic-fontawesome
 
 > My stunning Nuxt.js project
 
